@@ -64,3 +64,8 @@ a {
   justify-content: center;
   align-items: center;
 }
+
+.header {
+  font-size: 32px;
+  font-weight: 900;
+}
